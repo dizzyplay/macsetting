@@ -54,9 +54,6 @@ Plugin 'prettier/vim-prettier', { 'do': 'yarn install' }
 
 Plugin 'leafgarland/typescript-vim'
 
-"swift syntax
-Plugin 'file:///Users/vovo/Documents/personalstudy/backjoonMySolving/swift/swift', {'rtp': 'utils/vim/', 'name':'Swift-Syntax'}
-
 Plugin 'nanotech/jellybeans.vim'
 Plugin 'bling/vim-airline'
 Plugin 'easymotion/vim-easymotion'
