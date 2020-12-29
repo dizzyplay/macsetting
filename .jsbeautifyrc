@@ -1,0 +1,6 @@
+{
+  "indent_with_tabs": true,
+  "space_after_anon_function": true,
+  "space_after_named_function": true,
+  "brace_style": "end-expand, preserve-inline"
+}
