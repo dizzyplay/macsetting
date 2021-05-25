@@ -8,8 +8,6 @@ if has("syntax")
 	syntax on
 endif
 
-set nu
-
 set autoindent
 set expandtab
 set tabstop=2
